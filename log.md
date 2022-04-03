@@ -21,9 +21,12 @@ Discovering more on C++. In the general overview a see the following topics:
   - Variadic functions
   - Recursion
 - Preprocessor
-  - macros as constants
-  - macros
-
+  - Macros as constants
+  - Macros
+  - Line continuation
+- OOP
+  - Classes and objects
+  
 **Today's Progress**:
 
 **Thoughts:**
