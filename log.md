@@ -26,9 +26,11 @@ Discovering more on C++. In the general overview a see the following topics:
   - Line continuation
 - OOP
   - Classes and objects
-  
-**Today's Progress**:
+  - Data members in structure and objects
+  - Data accessors
 
-**Thoughts:**
+**Today's Progress**: First create variadic function and recursion. After start working on structures and objects to practice.
 
-**Link to work:** []()
+**Thoughts:** It's looks like simple to handle the OOP paradigm in C++ if begins in the structure creation first.
+
+**Link to work:** [c++ OOP](https://github.com/ralexrivero/cpp/tree/main/04-OOP)
