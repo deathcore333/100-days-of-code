@@ -34,3 +34,17 @@ Discovering more on C++. In the general overview a see the following topics:
 **Thoughts:** It's looks like simple to handle the OOP paradigm in C++ if begins in the structure creation first.
 
 **Link to work:** [c++ OOP](https://github.com/ralexrivero/cpp/tree/main/04-OOP)
+
+## Day 2: Abril 4, 2022
+
+- c++
+  - function members
+- React.js
+
+**Today's Progress**:
+
+**Thoughts:** React is a declarative paridgm. Is a good practice to separate the class, setters and getters and the functions in at least three files.
+
+**Link to work:** []()
+
+## Day 3: April 5, 2022
