@@ -11,3 +11,14 @@ Use recursion to handle the matrix concatenation trough an axis.
 **Link to work:**
 -[squash matrices](https://github.com/ralexrivero/holbertonschool-machine_learning/blob/main/math/0x00-linear_algebra/102-squashed_like_sardines.py)
 -[entry point](https://github.com/ralexrivero/holbertonschool-machine_learning/blob/main/math/0x00-linear_algebra/102-main.py)
+
+## Day 1: August 22, 2022
+
+Use Makefile to compile C project. The main goal of the project is to insert in a linked list.
+
+**Today's Progress**: Automate the compilation using Makefile.
+
+**Thoughts:** Works excelent for compilation and cleaning the project. I think that i need to automate the compilation with different entry points (i.e. 0-main.c, 1-main.c, 2-main.c, ...) and the Makefile will be the same for all the entry points. I will implement in the next C project.
+
+**Link to work:**
+-[insert in linked list](https://github.com/ralexrivero/holbertonschool-interview/tree/main/0x01-insert_in_sorted_linked_list)
