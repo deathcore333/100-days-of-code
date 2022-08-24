@@ -22,3 +22,15 @@ Use Makefile to compile C project. The main goal of the project is to insert in 
 
 **Link to work:**
 -[insert in linked list](https://github.com/ralexrivero/holbertonschool-interview/tree/main/0x01-insert_in_sorted_linked_list)
+
+## Day 2: August 23, 2022
+
+Solve the following problem:
+`You have n number of locked boxes in front of you. Each box is numbered sequentially from 0 to n - 1 and each box may contain keys to the other boxes. Write a method that determines if all the boxes can be opened.`
+
+**Today's Progress**: solve the problem using python.
+
+**Thoughts:** the problem has lot of thinking and whitboarding and the solution is simple.
+
+**Link to work:**
+-[insert in linked list](https://github.com/ralexrivero/holbertonschool-interview/tree/main/0x01-insert_in_sorted_linked_list)
