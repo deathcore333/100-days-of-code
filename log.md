@@ -33,4 +33,4 @@ Solve the following problem:
 **Thoughts:** the problem has lot of thinking and whitboarding and the solution is simple.
 
 **Link to work:**
--[insert in linked list](https://github.com/ralexrivero/holbertonschool-interview/tree/main/0x01-insert_in_sorted_linked_list)
+-[insert in linked list](https://github.com/ralexrivero/holbertonschool-interview/tree/main/0x00-lockboxes)
