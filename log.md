@@ -33,4 +33,13 @@ Solve the following problem:
 **Thoughts:** the problem has lot of thinking and whitboarding and the solution is simple.
 
 **Link to work:**
--[insert in linked list](https://github.com/ralexrivero/holbertonschool-interview/tree/main/0x00-lockboxes)
+-[lockboxes](https://github.com/ralexrivero/holbertonschool-interview/tree/main/0x00-lockboxes)
+
+## Day 3: August 24, 2022
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+-[link](link)
