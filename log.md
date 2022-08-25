@@ -37,9 +37,9 @@ Solve the following problem:
 
 ## Day 3: August 24, 2022
 
-**Today's Progress**:
+**Today's Progress**: Numerical base conversion. Convert a number from base 16 to base 10 using C lanuage. libraries: stdio and math.
 
-**Thoughts:**
+**Thoughts:** C is the best language for undestand in deep a problem and the computer basics.
 
 **Link to work:**
--[link](link)
+-[Hexadecimal convetion](https://github.com/ralexrivero/base_convertion)
