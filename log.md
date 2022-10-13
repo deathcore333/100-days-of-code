@@ -45,6 +45,7 @@ $ curl -v localhost
 
 **Thoughts:**
 
+The basic is the best.
 
 **Link to work:**
 -[simplest server](https://github.com/ralexrivero/python/blob/e54bf84cc66a8d7a0bffe791fb673d728e66c445/1x01-simple_server_browser/02-simplest_server.py)
