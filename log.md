@@ -1,45 +1,50 @@
 # 100 Days Of Code - Log
 
-## Day 0: August 21, 2022
+## Day 0: October 12, 2022
 
-Use recursion to handle the matrix concatenation trough an axis.
+Create the simplest web server using python.
 
-**Today's Progress**: use the python standard library.
+**Today's Progress**:
 
-**Thoughts:** i work on prototypes using a main.h to link all the code but the function array pointer type is not possible to describe in header without a array size, i fix it adding in the same file where it's called.
+use python to build the most simple version of a web server.
+Running in a docker python alpine container exposing network to host, run the server and acces it from the host using curl.
+
+```bash
+$ docker run -d --rm -it --name py-dj-0 -v ~/code:/code --network=host py-dj
+
+$ docker exec -it py-dj-0 sh
+
+/ # cd code/Django/simple_server_browser/
+/code/Django/simple_server_browser # ./02-simplest_server.py
+Access http://localhost:80
+GET http://127.0.0.1 HTTP/1.0
+GET / HTTP/1.1
+GET / HTTP/1.1
+```
+
+- from other shell in the host
+
+```bash
+$ curl -v localhost
+*   Trying 127.0.0.1:80...
+* Connected to localhost (127.0.0.1) port 80 (#0)
+> GET / HTTP/1.1
+> Host: localhost
+> User-Agent: curl/7.85.0
+> Accept: */*
+>
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Content-Type: text/html; charset=utf-8
+* no chunk, no close, no size. Assume close to signal end
+<
+<html><body>Hello World!!</body></html>
+
+* Closing connection 0
+```
+
+**Thoughts:**
+
 
 **Link to work:**
--[squash matrices](https://github.com/ralexrivero/holbertonschool-machine_learning/blob/main/math/0x00-linear_algebra/102-squashed_like_sardines.py)
--[entry point](https://github.com/ralexrivero/holbertonschool-machine_learning/blob/main/math/0x00-linear_algebra/102-main.py)
-
-## Day 1: August 22, 2022
-
-Use Makefile to compile C project. The main goal of the project is to insert in a linked list.
-
-**Today's Progress**: Automate the compilation using Makefile.
-
-**Thoughts:** Works excelent for compilation and cleaning the project. I think that i need to automate the compilation with different entry points (i.e. 0-main.c, 1-main.c, 2-main.c, ...) and the Makefile will be the same for all the entry points. I will implement in the next C project.
-
-**Link to work:**
--[insert in linked list](https://github.com/ralexrivero/holbertonschool-interview/tree/main/0x01-insert_in_sorted_linked_list)
-
-## Day 2: August 23, 2022
-
-Solve the following problem:
-`You have n number of locked boxes in front of you. Each box is numbered sequentially from 0 to n - 1 and each box may contain keys to the other boxes. Write a method that determines if all the boxes can be opened.`
-
-**Today's Progress**: solve the problem using python.
-
-**Thoughts:** the problem has lot of thinking and whitboarding and the solution is simple.
-
-**Link to work:**
--[lockboxes](https://github.com/ralexrivero/holbertonschool-interview/tree/main/0x00-lockboxes)
-
-## Day 3: August 24, 2022
-
-**Today's Progress**: Numerical base conversion. Convert a number from base 16 to base 10 using C lanuage. libraries: stdio and math.
-
-**Thoughts:** C is the best language for undestand in deep a problem and the computer basics.
-
-**Link to work:**
--[Hexadecimal convetion](https://github.com/ralexrivero/base_convertion)
+-[simplest server](https://github.com/ralexrivero/python/blob/e54bf84cc66a8d7a0bffe791fb673d728e66c445/1x01-simple_server_browser/02-simplest_server.py)
