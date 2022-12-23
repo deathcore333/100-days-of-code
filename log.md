@@ -49,3 +49,18 @@ The basic is the best.
 
 **Link to work:**
 -[simplest server](https://github.com/ralexrivero/python/blob/e54bf84cc66a8d7a0bffe791fb673d728e66c445/1x01-simple_server_browser/02-simplest_server.py)
+
+## Day 0: December 23, 2022
+
+Destructure objects and arrays in javascript.
+
+**Today's Progress**:
+
+Destructure objects and arrays in javascript, using the spread operator.
+
+**Thoughts:**
+
+JavaScript object destructuring is a way to extract values from objects and arrays and bind them to variables. It allows to extract data from and object or an array and assign it to variables in a concise and convenient way.
+
+**Link to work:**
+-[destructurin objects](https://github.com/ralexrivero/javascript/blob/main/meta/11-destructuring/11-destructuring.js)
