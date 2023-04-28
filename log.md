@@ -50,17 +50,13 @@ The basic is the best.
 **Link to work:**
 -[simplest server](https://github.com/ralexrivero/python/blob/e54bf84cc66a8d7a0bffe791fb673d728e66c445/1x01-simple_server_browser/02-simplest_server.py)
 
-## Day 0: December 23, 2022
+## Day 0: December 28, 2023
 
-Destructure objects and arrays in javascript.
+Keeping it simple: built the navbar for my web application
 
 **Today's Progress**:
 
-Destructure objects and arrays in javascript, using the spread operator.
+I managed to start on the pastpapers project. A project for a webapplication where students and schools can upload and download resources for thier different projects. It was motivated by the fact that if I had had access to pastpapers, my campus life would have been relatively easier. 
+ I am currently using codepen to edit and set up the front page of the work: 
+I hope to complete front end in 7 days coding for more than an hour a day.
 
-**Thoughts:**
-
-JavaScript object destructuring is a way to extract values from objects and arrays and bind them to variables. It allows to extract data from and object or an array and assign it to variables in a concise and convenient way.
-
-**Link to work:**
--[destructurin objects](https://github.com/ralexrivero/javascript/blob/main/meta/11-destructuring/11-destructuring.js)
